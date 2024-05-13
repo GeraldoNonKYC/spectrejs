@@ -1,0 +1,28 @@
+{
+  "name": "spectrejs",
+  "version": "2.0.3",
+  "description": "Simple Spectre library for interacting with Spectred & Spectrewalletd gRPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldoNonKYC/Spectrejs.git"
+  },
+  "keywords": [
+    "spectre",
+    "spectrejs",
+    "cryptocurrency"
+  ],
+  "author": "KaffinPX",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/GeraldoNonKYC/Spectrejs/issues"
+  },
+  "homepage": "https://github.com/GeraldoNonKYC/Spectrejs#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  }
+}
